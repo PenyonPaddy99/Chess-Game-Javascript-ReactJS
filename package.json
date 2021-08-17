@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-modal": "^3.14.3",
+    "react-simple-modal-provider": "^1.7.0",
+    "reactjs-popup": "^2.0.5"
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
